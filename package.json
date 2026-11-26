@@ -1,0 +1,11 @@
+{
+  "name": "research-agent",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "agent": "node src/main.ts"
+  }
+}
